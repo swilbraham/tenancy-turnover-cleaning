@@ -249,7 +249,7 @@ export default function LandingPage() {
               {
                 title: "Carpet Cleaning",
                 description: "Hot water extraction that lifts ground-in dirt, removes stains and eliminates odours. Fast drying times.",
-                image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&q=80&auto=format",
+                image: "/carpet-cleaning.jpg",
               },
             ].map((service, i) => (
               <motion.div

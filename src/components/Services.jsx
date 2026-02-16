@@ -24,7 +24,7 @@ const services = [
     description:
       "Hot water extraction and professional stain removal that lifts ground-in dirt, eliminates odours and revives tired carpets. Ideal for rental properties between tenancies.",
     features: ["Hot water extraction method", "Stain & odour removal", "Fast drying times", "All carpet types catered for"],
-    image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=80&auto=format",
+    image: "/carpet-cleaning.jpg",
   },
 ];
 
